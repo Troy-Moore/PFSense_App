@@ -1,0 +1,88 @@
+[app/ui]
+version = 8.0.1
+modtime = 1581264249.392507000
+
+[app/launcher]
+version = 8.0.1
+modtime = 1581264249.394862000
+
+[indexes/pfsense]
+owner = admin
+version = 8.0.1
+modtime = 1581264300.203351000
+
+[indexes/squid]
+owner = admin
+version = 8.0.1
+modtime = 1581265114.420961000
+
+[indexes/snort]
+owner = admin
+version = 8.0.1
+modtime = 1581265204.845257000
+
+[props/squidblock/EXTRACT-category]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1581783329.323767000
+
+[props/squidblock/EXTRACT-src_ip]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1581783480.559680000
+
+[props/squidblock/EXTRACT-url]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1581783892.066745000
+
+[props/squid/EXTRACT-status_code]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1581784469.582702000
+
+[props/squid/EXTRACT-type]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1581784530.802887000
+
+[props/squid/EXTRACT-url]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1581784630.412182000
+
+[views/proxy_blocks]
+owner = admin
+version = 8.0.1
+modtime = 1582076179.499037000
+
+[views/web_access]
+owner = admin
+version = 8.0.1
+modtime = 1582077413.434015000
+
+[props/squid/EXTRACT-src_ip]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1582076712.889878000
+
+[props/squid/EXTRACT-mime]
+access = read : [ * ], write : [ admin ]
+export = none
+owner = admin
+version = 8.0.1
+modtime = 1582076891.503532000
